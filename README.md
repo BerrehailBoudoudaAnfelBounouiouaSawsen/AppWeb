@@ -8,7 +8,8 @@ package routes:responsable de gestion de routage en html si un clientfait le lie
 pour le coté design(html):contient 3dossiers:data->liste de restaurant dans un fichier json;template->page index.html; gestion coté html faite par thymeleaf(html template enfine en spring boot)
 
 
-vous trouvez dans mon compte Anfel1990 le projet complet(parceque quand je voulais faire upload dans repertoire de team"BerrehailBoudoudaAnfelBounouiouaSawsen" ça m'affiche dossier hidden pour 3 dossiers alors avec application github desktop 'ete simple j'ai pu tout publier) parceque j'ai télécharger et utiliser github desktop->file->reate repository remplir name et description cocher readme,mettre le projet dans le chemin de dossier creer puis commit et publish apres je vais ouvrir mon compte en navigateur wwww.github.com je cree un team et j'ai invité les membres puis j'ai recréee repository avec meme etapes precedentes
+vous trouvez dans mon compte Anfel1990 le projet complet(parceque quand je voulais faire upload dans repertoire de team"BerrehailBoudoudaAnfelBounouiouaSawsen" ça m'affiche dossier hidden pour 3 dossiers alors avec application github desktop 'ete simple j'ai pu tout publier)parceque j'ai télécharger et utiliser github desktop->file->reate repository remplir name et description cocher readme,mettre le projet dans le chemin de dossier creer puis commit et publish apres je vais ouvrir mon compte en navigateur wwww.github.com je cree un team et j'ai invité les membres puis j'ai recréee repository avec meme etapes precedentes
+au faite j'avais un compte github depuis un bail je me suis rentré sur le lien: www.github.com signin et voila email et mode passe et j'ai creer compte apres validation de email le compte est pret a utiliser parceque 
 
 
 
