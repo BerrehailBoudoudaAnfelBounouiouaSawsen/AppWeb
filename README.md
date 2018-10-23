@@ -7,6 +7,7 @@ on a 4 packages: Repository,service,entity,routes
 package routes:responsable de gestion de routage en html si un client met le lien localhost:9999/rate "/rate" spring boot va executer les requettes venu de cet url et il va regenerer une nouvelle liste (apres avoir fait update les rates de restaurant) et il envoi une reponse au client dans cet url("/rate")
 pour le coté design(html):contient 3 dossiers:data->liste de restaurant dans un fichier json;template->page index.html; gestion coté html faite par thymeleaf(html template en spring boot)
 
+![sans titre](https://user-images.githubusercontent.com/25961912/47390565-8eaa5480-d6cc-11e8-9fef-f6aa5f3846db.png)
 
 
 vous trouvez dans mon compte Anfel1990 le projet complet(parceque quand je voulais faire upload dans repertoire de team"BerrehailBoudoudaAnfelBounouiouaSawsen" ça m'affiche dossier hidden pour 3 dossiers alors avec application github desktop 'ete simple j'ai pu tout publier)parceque j'ai télécharger et utiliser github desktop->file->create repository remplir name et description cocher readme,mettre le projet dans le chemin de dossier creer puis commit et publish apres je vais ouvrir mon compte en navigateur wwww.github.com je cree un team et j'ai invité les membres puis j'ai recréee repository avec meme etapes precedentes
