@@ -10,7 +10,13 @@ pour le coté design(html):contient 3 dossiers:data->liste de restaurant dans un
 
 vous trouvez dans mon compte Anfel1990 le projet complet(parceque quand je voulais faire upload dans repertoire de team"BerrehailBoudoudaAnfelBounouiouaSawsen" ça m'affiche dossier hidden pour 3 dossiers alors avec application github desktop 'ete simple j'ai pu tout publier)parceque j'ai télécharger et utiliser github desktop->file->create repository remplir name et description cocher readme,mettre le projet dans le chemin de dossier creer puis commit et publish apres je vais ouvrir mon compte en navigateur wwww.github.com je cree un team et j'ai invité les membres puis j'ai recréee repository avec meme etapes precedentes
 au faite j'avais un compte github depuis un bail je me suis rentré sur le lien: www.github.com signin et voila email et mode passe et j'ai creer compte apres validation de email le compte est pret a utiliser.
-
-
-
+ 
+ En ce qui concerne le openShift j'ai ouvert un compte dedans www.openshift.com j'ai creer un projet avec item Redhat openjdk8.1.1 j'ai rempli avec le nom de projet'restaurant-cloud'et application name"jdk" et en gitrepository" https://github.com/BerrehailBoudoudaAnfelBounouiouaSawsen/AppWeb.git" ->create 
+ 
+ build->logs :on verra le telechargement de tout les dependance de projets on attend le telechargement jusqu'a tout les jar sont upload dans le directory 
+ 
+ overview->pods:pourvoir voir execution de notre projet sur github
+ overview ->click sur le link :excutuion de app sur navigateur
+ 
+ 
 pour le travail demandé coté implimentation moi"berrehail boudouda anfel" et mon binome "Bounouioua sawsen" on a fait tout ensemble on a pas partagé travail entre nous seulement elle ,elle a beaucoup concentré sur le design et moi je fais de plus configuration de github desktop et creation de repertoire et upload etout 
