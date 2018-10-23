@@ -14,9 +14,14 @@ au faite j'avais un compte github depuis un bail je me suis rentré sur le lien:
  En ce qui concerne le openShift j'ai ouvert un compte dedans www.openshift.com j'ai creer un projet avec item Redhat openjdk8.1.1 j'ai rempli avec le nom de projet'restaurant-cloud'et application name"jdk" et en gitrepository" https://github.com/BerrehailBoudoudaAnfelBounouiouaSawsen/AppWeb.git" ->create 
  
  build->logs :on verra le telechargement de tout les dependance de projets on attend le telechargement jusqu'a tout les jar sont upload dans le directory 
+ ![cloud2](https://user-images.githubusercontent.com/25961912/47389271-345bc480-d6c9-11e8-9240-6366edf47a86.png)
+
  
  overview->pods:pourvoir voir execution de notre projet sur github
+ ![openshift](https://user-images.githubusercontent.com/25961912/47389396-7c7ae700-d6c9-11e8-9192-8ad4b15c3090.png)
+
  overview ->click sur le link :excutuion de app sur navigateur
  
+ ![Uploading Sans titre3.png…]()
  
 pour le travail demandé coté implimentation moi"berrehail boudouda anfel" et mon binome "Bounouioua sawsen" on a fait tout ensemble on a pas partagé travail entre nous seulement elle ,elle a beaucoup concentré sur le design et moi je fais de plus configuration de github desktop et creation de repertoire et upload etout 
