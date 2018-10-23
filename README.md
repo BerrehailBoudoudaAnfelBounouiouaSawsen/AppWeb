@@ -8,10 +8,15 @@ package routes:responsable de gestion de routage en html si un client met le lie
 pour le coté design(html):contient 3 dossiers:data->liste de restaurant dans un fichier json;template->page index.html; gestion coté html faite par thymeleaf(html template en spring boot)
 
 
+
 vous trouvez dans mon compte Anfel1990 le projet complet(parceque quand je voulais faire upload dans repertoire de team"BerrehailBoudoudaAnfelBounouiouaSawsen" ça m'affiche dossier hidden pour 3 dossiers alors avec application github desktop 'ete simple j'ai pu tout publier)parceque j'ai télécharger et utiliser github desktop->file->create repository remplir name et description cocher readme,mettre le projet dans le chemin de dossier creer puis commit et publish apres je vais ouvrir mon compte en navigateur wwww.github.com je cree un team et j'ai invité les membres puis j'ai recréee repository avec meme etapes precedentes
 au faite j'avais un compte github depuis un bail je me suis rentré sur le lien: www.github.com signin et voila email et mode passe et j'ai creer compte apres validation de email le compte est pret a utiliser.
+![sans titre4](https://user-images.githubusercontent.com/25961912/47389797-8d782800-d6ca-11e8-9aae-fef5741ee643.png)
  
  En ce qui concerne le openShift j'ai ouvert un compte dedans www.openshift.com j'ai creer un projet avec item Redhat openjdk8.1.1 j'ai rempli avec le nom de projet'restaurant-cloud'et application name"jdk" et en gitrepository" https://github.com/BerrehailBoudoudaAnfelBounouiouaSawsen/AppWeb.git" ->create 
+ ![sans titre7](https://user-images.githubusercontent.com/25961912/47390395-252a4600-d6cc-11e8-9863-10e1bd6e1e8e.png)
+ ![sans titre8](https://user-images.githubusercontent.com/25961912/47390477-59056b80-d6cc-11e8-8081-4d0b0a0fcef2.png)
+
  
  build->logs :on verra le telechargement de tout les dependance de projets on attend le telechargement jusqu'a tout les jar sont upload dans le directory 
  ![cloud2](https://user-images.githubusercontent.com/25961912/47389271-345bc480-d6c9-11e8-9240-6366edf47a86.png)
